@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "models",
+			"path": "models"
+		},
+		{
+			"name": "movies-api1",
+			"path": "../../movies-api1"
+		},
+		{
+			"name": "routes",
+			"path": "routes"
+		},
+		{
+			"name": "db",
+			"path": "db"
+		}
+	],
+	"settings": {}
+}
